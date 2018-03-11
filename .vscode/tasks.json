@@ -66,6 +66,14 @@
             "problemMatcher": [
                 "$jshint"
             ]
+        },
+        {
+            "type": "npm",
+            "script": "start",
+            "path": "Express.js-in-Action/ch08/learn-about-me/",
+            "problemMatcher": [
+                "$jshint"
+            ]
         }
     ]
 }
