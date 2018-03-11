@@ -50,6 +50,22 @@
             "problemMatcher": [
                 "$jshint"
             ]
+        },
+        {
+            "type": "npm",
+            "script": "start",
+            "path": "Express.js-in-Action/ch05/temperature-by-zip/",
+            "problemMatcher": [
+                "$jshint"
+            ]
+        },
+        {
+            "type": "npm",
+            "script": "start",
+            "path": "Express.js-in-Action/ch06/random-number-api/",
+            "problemMatcher": [
+                "$jshint"
+            ]
         }
     ]
 }
